@@ -267,6 +267,3 @@ git push -u origin main
 1. Go to [dashboard.clerk.com](https://dashboard.clerk.com/) &rarr; Your App.
 2. Under **Configure** &rarr; **Domains / Paths**, make sure your Vercel URL is added or allow development testing on custom domains.
 
-#   S t u d y T r a c k  
- #   S t u d y T r a c k  
- 
