@@ -16,10 +16,7 @@ const Login = () => {
           <BookOpen size={30} />
         </div>
 
-        <h1 className="login-title">StudyTrack</h1>
-        <p className="login-desc">
-          A minimalist student task management system designed with the MERN stack & Clerk authentication.
-        </p>
+        <h1 className="login-title" style={{ marginBottom: '24px' }}>StudyTrack</h1>
 
         {/* Feature Highlights */}
         <div className="feature-list">
